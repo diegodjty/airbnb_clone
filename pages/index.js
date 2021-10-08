@@ -9,7 +9,7 @@ import LargeCard from '../components/LargeCard';
 
 export default function Home({exploreData,cardsData}) {
   return (
-    <div className="">
+    <div>
       <Head>
         <title>Airbnb Clone</title>
         <link rel="icon" href="/favicon.ico" />
